@@ -21,15 +21,15 @@ some_words = ["what", "does", "this", "line", "do", "?"]
 
 for word in some_words:
     print(word)
-
+# it printed "word"
 for x in some_words:
     print(x)
-
+# it printed "x"
 print(some_words)
-
+# it printed "['what', 'does', 'this', 'line', 'do', '?']"
 if len(some_words) > 3:
     print("some_words contains more than 3 words")
-
+# it printed "some_words contains more than 3 words"
 
 def usefulFunction():
     """
@@ -38,6 +38,6 @@ def usefulFunction():
     https://docs.python.org/3/library/platform.html#platform.uname
     """
     print(platform.uname())
-
+# it printed "uname_result(system='Windows', node='LAPTOP-4HFO09BL', release='10', version='10.0.19045', machine='AMD64')"
 
 usefulFunction()
