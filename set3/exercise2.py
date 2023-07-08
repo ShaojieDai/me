@@ -9,7 +9,7 @@ This will give you some intuition about how to make exercise 3 more robust.
 
 import random
 
-
+print("range(start=3, stop=10, step=2)")
 def exampleGuessingGame():
     """Play a game with the user.
 
