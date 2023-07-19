@@ -1,1 +1,1 @@
-TODO: Reflect on what you learned this week and what is still unclear.
+This week I watched a tutorial on how to use the Pandas programme and started collecting data.

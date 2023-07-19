@@ -1,1 +1,1 @@
-TODO: Reflect on what you learned this week and what is still unclear.
+This week I watched the I0examples.py tutorial and completed the Set4 programming exercise.

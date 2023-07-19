@@ -1,1 +1,1 @@
-TODO: Reflect on what you learned this week and what is still unclear.
+This week I asked Alex questions related to the direction of my data collection, refining it.

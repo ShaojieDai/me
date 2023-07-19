@@ -1,1 +1,1 @@
-TODO: Reflect on what you learned this week and what is still unclear.
+This week I learnt all the components of Python syntax to start the Set2 programming exercise.

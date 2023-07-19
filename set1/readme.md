@@ -1,1 +1,1 @@
-oihvgkhguvc
+During the week I downloaded Python and VSCode, started learning Python and finished Set1.
