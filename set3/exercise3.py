@@ -60,21 +60,21 @@ def advancedGuessingGame():
     guessed = False
 
     while not guessed:
-        guessedNumber = input(f"Guess a number: ")
         try:
-            guess = int(guessedNumber)
-            if guess < lowerBound or guess > upperBound:
-                print("Your guess is outside the bounds. Try again.")
-            elif guess == actualNumber:
+            guessedNumber = int(input(f"Guess a number: "))
+            print(f"You guessed {guessedNumber},")
+            if guessedNumber == actualNumber:
                 print(f"You got it!! It was {actualNumber}")
                 guessed = True
-            elif guess < actualNumber:
-                print("Too small, try again.")
+            elif guessedNumber < lowerBound or guessedNumber > upperBound:
+                print("Your guess is outside the bounds. Try again.")
+            elif guessedNumber < actualNumber:
+                    print("Too small, try again.")
             else:
                 print("Too big, try again.")
         except ValueError:
             print("Invalid input. Please enter an integer value for your guess. Try again.")
-
+        
     return "You got it!"
     
 
