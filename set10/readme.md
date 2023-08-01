@@ -1,1 +1,1 @@
-TODO: Reflect on what you learned this week and what is still unclear.
+This week I asked Scarlett and Ben some questions about importing data items.
