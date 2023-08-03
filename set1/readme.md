@@ -1,1 +1,1 @@
-During the week I downloaded Python and VSCode, started learning Python and finished Set1.
+During the week I downloaded Python and VSCode, started learning Python and finished Set1. Because I had never learned Python before, it was a little difficult to learn at first, so I looked for tutorials on the Internet to begin to understand programming and learn Python.

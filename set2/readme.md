@@ -1,1 +1,1 @@
-This week I learnt all the components of Python syntax to start the Set2 programming exercise.
+This week I learnt all the components of Python syntax to start the Set2 programming exercise. Gaining a grasp of variables, loops, conditionals, and functions forms a solid foundation for delving into more complex coding tasks. With each passing week, I aim to further my understanding of Python's intricacies, dedicating time to practice and experimentation. 

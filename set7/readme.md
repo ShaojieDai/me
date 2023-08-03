@@ -1,1 +1,1 @@
-This week I asked Alex questions related to the direction of my data collection, refining it.
+During the week, I encountered some issues with the data collection project, so I sought Alex's guidance to delve into the direction and scope of the data collection effort. Through these interactions, I gained a deeper understanding of ways to improve my data collection methods to ensure alignment with project goals. Alex's expertise and feedback enriched my perspective and helped me take a more nuanced approach to data collection.
